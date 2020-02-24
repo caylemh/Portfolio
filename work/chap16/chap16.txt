@@ -1,0 +1,17 @@
+<div class="storyPart" id="answer21">
+        <p>You decide to risk it. The journey is long, and you give sweet Gizmo half your food, knowing that you may not survive the return trip, but the Flying Hippo can carry the robot home without you, and at least the important experimental data (and
+            Gizmo, of course) will be safe.</p>
+        <p>When you arrive at Mars, you quickly locate the sick robot. But, you also discover something else: a large ice chest full of delicious sandwiches! The last repair crew to visit the robot must have left this here! You unwrap one of the sandwiches
+            and carefully take a bite. Peanut butter! Your favorite! Gizmo's favorite too!</p>
+        <p>You pack up the sandwiches and the sick robot and begin the trip home, knowing that there's now more than enough food for both you and Gizmo.</p>
+    </div>
+    <div class="storyPart" id="answer22">
+        <p>Let someone else get the robot. You turn the Flying Hippo around and head home.</p>
+        <p>When you get back to the spaceport, you open the door to exit your spaceship and your boss is standing outside.</p>
+        <p>You apologize and explain the whole thing to him about how there wouldn't have been enough food.</p>
+        <p>Steam comes out of your boss's mechanical head as he tells you that there are always plenty of sandwiches on Mars, and that you would have been just fine if you had completed your mission. He fires you. You pick up Gizmo and start walking home.</p>
+        <p>Oh well, at least you still have Gizmo!</p>
+    </div>
+    <div class="storyPart" id="err2">
+        <p>Please answer Risk It or Go Home.</p>
+    </div>
